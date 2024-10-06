@@ -15,7 +15,6 @@ This project implements a multi-database user management system using Node.js, E
 - [Usage](#usage)
 - [Database Setup](#database-setup)
 - [API Requests](#api-requests)
-- [License](#license)
 
 ## Installation
 
